@@ -1,0 +1,17 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "editor.tabSize": 3,
+    "editor.wordWrap": "on",
+    "editor.guides.bracketPairs": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "editor.linkedEditing": true
+}
