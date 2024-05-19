@@ -30,4 +30,4 @@ E depois, configurar um novo ambiente:
 </br>
 <code>cp settings.json ~/.config/Code/User/</code>
 
-===========================
+---------------------------------------
