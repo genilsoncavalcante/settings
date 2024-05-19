@@ -9,7 +9,7 @@ Para automatizar esse processo, você pode usar um script simples. Aqui está um
 </br>
 <code>
 #!/bin/bash
-# Script to install VS Code extensions from a list
+#Script to install VS Code extensions from a list
 
 if [ -f "extensions.txt" ]; then
     while read extension; do
