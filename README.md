@@ -5,7 +5,7 @@ Use o seguinte comando para ler o arquivo extensions.txt e instalar todas as ext
 <code>cat extensions.txt | xargs -n 1 code --install-extension</code>
 
 ### Autmomação com script
-Para automatizar esse processo, você pode usar um script simples. Aqui está um exemplo de script ´install-extensions.sh´:
+Para automatizar esse processo, você pode usar um script simples. Aqui está um exemplo de script **install-extensions.sh**:
 </br>
 <code>
 #!/bin/bash
